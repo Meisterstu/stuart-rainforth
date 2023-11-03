@@ -11,7 +11,7 @@ N/A.
 
 ## Usage
 
-https://meisterstu.github.io/Horiseon-Marketing/ 
+https://meisterstu.github.io/stuart-rainforth/
 
 ## Credits
 
