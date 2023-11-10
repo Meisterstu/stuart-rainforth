@@ -13,6 +13,9 @@ N/A.
 
 https://meisterstu.github.io/stuart-rainforth/
 
+<img width="1440" alt="stuart-rainforth-screenshot" src="https://github.com/Meisterstu/stuart-rainforth/assets/87127436/5abf28af-1c28-4545-b285-2bab7d6aff69">
+
+
 ## Credits
 
 N/A
